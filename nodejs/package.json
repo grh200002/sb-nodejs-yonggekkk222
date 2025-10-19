@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "node",
   "main": "index.js",
-  "author": "eooce",
+  "author": "ygkkk",
   "license": "MIT",
   "private": false,
   "scripts": {
@@ -18,5 +18,6 @@
   }
 }
   
+
 
 
